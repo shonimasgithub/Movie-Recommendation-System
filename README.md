@@ -1,6 +1,8 @@
 # Movie-Recommendation-System
 Personalized AI Movie Recommendation System
+
 Movie Recommendation System: An Intelligent AI-Powered Content-Based Suggestion Platform
+
 Overview:
 The Movie Recommendation System is a smart, AI-driven web application designed to help users discover movies that match their unique tastes and preferences. Developed as a mini project by a group of Computer Science students, this system focuses on solving the problem of choice overload faced by users on modern streaming platforms by providing personalized movie suggestions.
 Key Objectives:
